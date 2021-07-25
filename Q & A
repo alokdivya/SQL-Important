@@ -1,0 +1,4 @@
+count(entity) -- for counting no. of entities.
+sum(entity) -- for adding all entities value.
+avg(entity) -- for finding average of all entities.
+round(entity) -- for rounding integer.
